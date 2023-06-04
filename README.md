@@ -1,5 +1,35 @@
 # powerplant-coding-challenge
 
+This exercise was carried out in Python locally in the following route: C:\powerplant-coding-challenge. So that it works in other computers, this route must be changed to where the files are saved.
+
+Due to the lack of time (I hand in my college thesis this week), the problem was solved vua linear programing. The code reads all of the input json files and allows the user to select in which one the optimization must be made.
+
+When defining the model, the wind plants receive a different treatment as they do not imply costs.
+
+The final output is displayed in http://localhost:8888/productionplan. However, in my computer this port has permission acces and has to develop it with port 4000. I hope it works with port 8888, if not, a change of port to 4000 is recommended.
+
+For the code to work, it is important to pay attention to the terminal, since some coding will have to be made:
+-Install required packages
+-Set the directory in the folder where the files are saved
+-Run "python app.py" to start the program
+
+For the POST method, I used an external program called INSOMNIA. This program helped me introducing new data.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Welcome !
 

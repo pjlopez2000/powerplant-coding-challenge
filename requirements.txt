@@ -1,0 +1,6 @@
+For the execution of the program, it is required to install (via pip install): flask and pulp. 
+The importing of the libraries appear in the code.
+
+It is important to note that the output was initially desgned to be shown in http://localhost:4000/productionplan. However, as it is mentioned in the instruction, the port was changed to 8888. Nevertheless, this port has permission access. If it does not work, it should be changed again in the code to port 4000.
+
+Finally, it is important to mention that the development of the code was carried out locally in C:
